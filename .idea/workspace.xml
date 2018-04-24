@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c5fedcea-4031-404f-8598-0d63de7e53e3" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solution/Easy/SelfDivingNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solution/Easy/SelfDivingNumber.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,7 +17,7 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="238">
               <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -30,8 +29,8 @@
       <file leaf-file-name="StringBuilder.java" pinned="false" current-in-tab="false">
         <entry file="jar://$PROJECT_DIR$/../../../jdk1.8.0_77/src.zip!/java/lang/StringBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="118">
-              <caret line="399" column="19" lean-forward="true" selection-start-line="399" selection-start-column="19" selection-end-line="399" selection-end-column="19" />
+            <state relative-caret-position="6154">
+              <caret line="399" column="19" selection-start-line="399" selection-start-column="19" selection-end-line="399" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -39,20 +38,41 @@
       <file leaf-file-name="AbstractStringBuilder.java" pinned="false" current-in-tab="false">
         <entry file="jar://$PROJECT_DIR$/../../../jdk1.8.0_77/src.zip!/java/lang/AbstractStringBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
+            <state relative-caret-position="22576">
               <caret line="1384" column="33" selection-start-line="1384" selection-start-column="33" selection-end-line="1384" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReverseWords.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ReverseWords.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Easy/ReverseWords.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="40" column="18" lean-forward="true" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
+            <state relative-caret-position="300">
+              <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FindWords.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Easy/FindWords.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="94">
+              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../../jdk1.8.0_77/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="2900" selection-start-line="2900" selection-end-line="2900" />
             </state>
           </provider>
         </entry>
@@ -88,6 +108,7 @@
         <option value="$PROJECT_DIR$/src/Easy/SelfDivingNumber.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/Easy/ReverseWords.java" />
+        <option value="$PROJECT_DIR$/src/Easy/FindWords.java" />
       </list>
     </option>
   </component>
@@ -97,7 +118,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-20" />
     <option name="width" value="950" />
     <option name="height" value="835" />
@@ -110,7 +131,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -133,8 +154,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -155,7 +176,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReverseWords">
+  <component name="RunManager" selected="Application.FindWords">
     <configuration name="FindComplement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Easy.FindComplement" />
       <module name="LeetCode-Solution" />
@@ -166,8 +187,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="HammingDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Easy.HammingDistance" />
+    <configuration name="FindWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Easy.FindWords" />
       <module name="LeetCode-Solution" />
       <extension name="coverage">
         <pattern>
@@ -220,18 +241,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.HammingDistance" />
       <item itemvalue="Application.FindComplement" />
       <item itemvalue="Application.SelfDivingNumber" />
       <item itemvalue="Application.ReverseWords" />
+      <item itemvalue="Application.FindWords" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindWords" />
         <item itemvalue="Application.ReverseWords" />
         <item itemvalue="Application.SelfDivingNumber" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.FindComplement" />
-        <item itemvalue="Application.HammingDistance" />
       </list>
     </recent_temporary>
   </component>
@@ -251,15 +272,16 @@
       <workItem from="1524275655225" duration="17328000" />
       <workItem from="1524380151991" duration="2185000" />
       <workItem from="1524409922905" duration="2608000" />
-      <workItem from="1524446193335" duration="8489000" />
+      <workItem from="1524446193335" duration="10020000" />
+      <workItem from="1524529346589" duration="4769000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51135000" />
+    <option name="totallyTimeSpent" value="57435000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -273,7 +295,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32872927" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3301105" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32965517" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17057292" />
@@ -343,39 +365,94 @@
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Easy/ReverseWords.java</url>
-          <line>11</line>
+          <url>file://$PROJECT_DIR$/src/Easy/FindWords.java</url>
+          <line>12</line>
           <properties />
-          <option name="timeStamp" value="25" />
+          <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Easy/ReverseWords.java</url>
-          <line>15</line>
+          <url>file://$PROJECT_DIR$/src/Easy/FindWords.java</url>
+          <line>14</line>
           <properties />
-          <option name="timeStamp" value="26" />
+          <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Easy/ReverseWords.java</url>
-          <line>32</line>
+          <url>file://$PROJECT_DIR$/src/Easy/FindWords.java</url>
+          <line>17</line>
           <properties />
-          <option name="timeStamp" value="27" />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Easy/FindWords.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Easy/FindWords.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Easy/FindWords.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Easy/FindWords.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Easy/FindWords.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Easy/FindWords.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Easy/FindWords.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Easy/FindWords.java</url>
+          <line>88</line>
+          <properties class="Easy.FindWords" method="containC">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Easy/FindWords.java</url>
+          <line>76</line>
+          <properties class="Easy.FindWords" method="containB">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Easy/FindWords.java</url>
+          <line>63</line>
+          <properties class="Easy.FindWords" method="containA">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="30" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="28" />
+      <option name="time" value="43" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Easy/HammingDistance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#91#92#0" expanded="true" />
-            <element signature="e#137#138#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -723,22 +800,32 @@
     </entry>
     <entry file="jar://$PROJECT_DIR$/../../../jdk1.8.0_77/src.zip!/java/lang/StringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="399" column="19" lean-forward="true" selection-start-line="399" selection-start-column="19" selection-end-line="399" selection-end-column="19" />
+        <state relative-caret-position="6154">
+          <caret line="399" column="19" selection-start-line="399" selection-start-column="19" selection-end-line="399" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/../../../jdk1.8.0_77/src.zip!/java/lang/AbstractStringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
+        <state relative-caret-position="22576">
           <caret line="1384" column="33" selection-start-line="1384" selection-start-column="33" selection-end-line="1384" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="238">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Easy/ReverseWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -747,15 +834,15 @@
     </entry>
     <entry file="jar://$PROJECT_DIR$/../../../jdk1.8.0_77/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="2866" column="18" selection-start-line="2866" selection-start-column="18" selection-end-line="2866" selection-end-column="18" />
+        <state relative-caret-position="170">
+          <caret line="2900" selection-start-line="2900" selection-end-line="2900" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Easy/ReverseWords.java">
+    <entry file="file://$PROJECT_DIR$/src/Easy/FindWords.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="40" column="18" lean-forward="true" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
+        <state relative-caret-position="94">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
