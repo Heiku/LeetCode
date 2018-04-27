@@ -17,7 +17,7 @@ public class MaxDepthTree {
 
 }
 
-class TreeNode {
+/*class TreeNode {
     int val;
     TreeNode left;
     TreeNode right;
@@ -25,4 +25,4 @@ class TreeNode {
     TreeNode(int x) {
         val = x;
     }
-}
+}*/

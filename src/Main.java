@@ -7,5 +7,6 @@ public class Main {
 
 
         System.out.println(2 >>> 1);
+        System.out.println(Integer.toBinaryString(5));
     }
 }
