@@ -5,8 +5,10 @@ public class Main {
 
     public static void main(String[] args) {
 
-
-        System.out.println(2 >>> 1);
-        System.out.println(Integer.toBinaryString(5));
+        String s = new String("heiku.github.io");
+        String []arr = s.split("\\.");
+        for (String str : arr){
+            System.out.println(str);
+        }
     }
 }
