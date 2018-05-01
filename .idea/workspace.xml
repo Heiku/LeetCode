@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5fedcea-4031-404f-8598-0d63de7e53e3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Easy/IsLandPerimeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/IsLandPerimeter.java" afterDir="false" />
-    </list>
+    <list default="true" id="c5fedcea-4031-404f-8598-0d63de7e53e3" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -78,11 +75,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InvertTree.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="InvertTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Easy/InvertTree.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
               <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SortedArrayToBST.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Easy/SortedArrayToBST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="20" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -157,6 +163,7 @@
         <option value="$PROJECT_DIR$/src/Easy/IsToeplitzMatrix.java" />
         <option value="$PROJECT_DIR$/src/Easy/IsLandPerimeter.java" />
         <option value="$PROJECT_DIR$/src/Easy/InvertTree.java" />
+        <option value="$PROJECT_DIR$/src/Easy/SortedArrayToBST.java" />
       </list>
     </option>
   </component>
@@ -166,7 +173,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-4" />
     <option name="width" value="1124" />
     <option name="height" value="1040" />
@@ -190,6 +197,12 @@
               <item name="LeetCode-Solution" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Solution" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Solution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Solution" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Easy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -230,17 +243,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SubDomainVisits">
-    <configuration name="ArrayPairSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Easy.ArrayPairSum" />
-      <module name="LeetCode-Solution" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.SortedArrayToBST">
     <configuration name="HasAlternatingBits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Easy.HasAlternatingBits" />
       <module name="LeetCode-Solution" />
@@ -260,6 +263,16 @@
     </configuration>
     <configuration name="RomanToInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Easy.RomanToInt" />
+      <module name="LeetCode-Solution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SortedArrayToBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Easy.SortedArrayToBST" />
       <module name="LeetCode-Solution" />
       <extension name="coverage">
         <pattern>
@@ -295,18 +308,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.ArrayPairSum" />
       <item itemvalue="Application.HasAlternatingBits" />
       <item itemvalue="Application.RomanToInt" />
       <item itemvalue="Application.SubDomainVisits" />
+      <item itemvalue="Application.SortedArrayToBST" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SortedArrayToBST" />
         <item itemvalue="Application.SubDomainVisits" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.RomanToInt" />
         <item itemvalue="Application.HasAlternatingBits" />
-        <item itemvalue="Application.ArrayPairSum" />
       </list>
     </recent_temporary>
   </component>
@@ -337,19 +350,20 @@
       <workItem from="1524883885679" duration="10295000" />
       <workItem from="1524982595608" duration="606000" />
       <workItem from="1525097942361" duration="4152000" />
-      <workItem from="1525146329624" duration="1714000" />
+      <workItem from="1525146329624" duration="8716000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103922000" />
+    <option name="totallyTimeSpent" value="110924000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3" y="0" width="899" height="832" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.499375" weight="0.3276316" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="8" />
@@ -359,10 +373,10 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49934897" weight="0.32872927" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.499375" visible="true" weight="0.29805014" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.499375" weight="0.29558012" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49803922" weight="0.35932204" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49803922" visible="true" weight="0.17578125" />
       <window_info id="Web" order="3" sideWeight="0.5019608" side_tool="true" weight="0.20703125" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -370,8 +384,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39917126" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.499375" weight="0.3276316" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39917126" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -580,6 +593,12 @@
           <properties />
           <option name="timeStamp" value="75" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Easy/SortedArrayToBST.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Easy/FindWords.java</url>
           <line>92</line>
@@ -621,17 +640,10 @@
           <option name="timeStamp" value="52" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="76" />
+      <option name="time" value="86" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/../../../jdk1.8.0_77/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23460">
-          <caret line="1443" column="22" selection-start-line="1443" selection-start-column="22" selection-end-line="1443" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -991,6 +1003,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Easy/SortedArrayToBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="20" selection-end-column="44" />
         </state>
       </provider>
     </entry>
