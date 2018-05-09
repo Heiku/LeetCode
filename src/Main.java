@@ -8,12 +8,13 @@ public class Main {
     public static void main(String[] args) {
 
         /*String s = new String("heiku.github.io");
-        String []arr = s.split("\\.");
+        String []arr = s.split("\\.");1
         for (String str : arr){
             System.out.println(str);
         }*/
 
         /*System.out.println((701-25) % 26);*/
-        System.out.println(1 % 3);
+        int i = 1;
+        System.out.println(String.valueOf(i));
     }
 }
