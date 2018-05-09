@@ -14,15 +14,6 @@ public class Main {
         }*/
 
         /*System.out.println((701-25) % 26);*/
-        List<Integer> list = new ArrayList<>();
-        list.add(1);
-        list.add(2);
-        list.add(3);
-        list.add(4);
-        list.add(5);
-        list.add(6);
-
-        list.remove(3);
-        System.out.println(list.get(2));
+        System.out.println(1 % 3);
     }
 }
