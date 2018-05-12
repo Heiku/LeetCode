@@ -14,7 +14,6 @@ public class Main {
         }*/
 
         /*System.out.println((701-25) % 26);*/
-        int i = 1;
-        System.out.println(String.valueOf(i));
+        System.out.println(10 % 9);
     }
 }
