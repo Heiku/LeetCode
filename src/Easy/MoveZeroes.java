@@ -2,6 +2,10 @@ package Easy;
 
 /**
  * 283
+ *
+ * 解题思路：循环找到0，非0，交换（注意数组越界，有序等问题）
+ *
+ *          非零提前，其余补0
  */
 public class MoveZeroes {
     public void moveZeroes(int[] nums) {
