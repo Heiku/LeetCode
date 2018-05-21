@@ -1,4 +1,4 @@
-package Other.CodingOffer.singleton;
+package Other.CodingOffer.algorithm.singleton;
 
 
 /**
