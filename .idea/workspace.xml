@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5fedcea-4031-404f-8598-0d63de7e53e3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c5fedcea-4031-404f-8598-0d63de7e53e3" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,11 +15,40 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ReConstructBinaryTree.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ReConstructBinaryTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/reConstructBinaryTree/ReConstructBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="247">
+              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+              <folding>
+                <element signature="e#1138#1139#0" expanded="true" />
+                <element signature="e#1161#1162#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TwoStack.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/TwoStackReplaceQueue/TwoStack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-118">
+              <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+              <folding>
+                <element signature="e#238#239#0" expanded="true" />
+                <element signature="e#268#269#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TwoQueue.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/TwoStackReplaceQueue/TwoQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -54,7 +81,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Easy/JewelsAndStones.java" />
         <option value="$PROJECT_DIR$/src/Easy/RobotCircle.java" />
         <option value="$PROJECT_DIR$/src/Easy/RobotCircle2.java" />
         <option value="$PROJECT_DIR$/src/Easy/HammingDistance.java" />
@@ -104,6 +130,8 @@
         <option value="$PROJECT_DIR$/src/Other/CodingOffer/algorithm/printLinkReverseOrder/printRerverse1.java" />
         <option value="$PROJECT_DIR$/src/Other/CodingOffer/algorithm/printLinkReverseOrder/printRerverse2.java" />
         <option value="$PROJECT_DIR$/src/Other/CodingOffer/algorithm/reConstructBinaryTree/ReConstructBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/Other/CodingOffer/algorithm/TwoStackReplaceQueue/TwoStack.java" />
+        <option value="$PROJECT_DIR$/src/Other/CodingOffer/algorithm/TwoStackReplaceQueue/TwoQueue.java" />
       </list>
     </option>
   </component>
@@ -149,13 +177,14 @@
               <item name="LeetCode-Solution" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Solution" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Easy" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode-Solution" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Solution" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="TwoStackReplaceQueue" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -322,12 +351,12 @@
       <workItem from="1526827108560" duration="193000" />
       <workItem from="1526830234430" duration="1851000" />
       <workItem from="1526868020478" duration="6578000" />
-      <workItem from="1526889144037" duration="8000000" />
+      <workItem from="1526889144037" duration="12869000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="176601000" />
+    <option name="totallyTimeSpent" value="181470000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -345,7 +374,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49934897" weight="0.19337016" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.499375" weight="0.28038675" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.499375" visible="true" weight="0.28038675" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49518305" visible="true" weight="0.1608073" />
@@ -356,7 +385,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" sideWeight="0.50481695" side_tool="true" weight="0.37760416" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3922652" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3922652" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -729,7 +758,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/reConstructBinaryTree/ReConstructBinaryTree.java</url>
-          <line>32</line>
+          <line>47</line>
           <properties />
           <option name="timeStamp" value="122" />
         </line-breakpoint>
@@ -778,23 +807,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Easy/FindComplement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Easy/RobotCircle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="7" column="53" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/../../../jdk1.8.0_77/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -1142,8 +1154,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/reConstructBinaryTree/ReConstructBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="247">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="e#1138#1139#0" expanded="true" />
+            <element signature="e#1161#1162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/TwoStackReplaceQueue/TwoStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-118">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+          <folding>
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/TwoStackReplaceQueue/TwoQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
