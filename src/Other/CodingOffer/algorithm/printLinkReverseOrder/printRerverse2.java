@@ -1,5 +1,7 @@
 package Other.CodingOffer.algorithm.printLinkReverseOrder;
 
+import java.util.ArrayList;
+
 /**
  * 递归判断节点是否null，再输出
  *
@@ -7,7 +9,6 @@ package Other.CodingOffer.algorithm.printLinkReverseOrder;
  */
 public class printRerverse2 {
     public static void printRerverse(ListNode node){
-
         if (node != null){
             printRerverse(node.next);
             System.out.println(node.val);
