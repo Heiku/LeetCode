@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5fedcea-4031-404f-8598-0d63de7e53e3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Other/CodingOffer/algorithm/printLinkReverseOrder/printRerverse2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Other/CodingOffer/algorithm/printLinkReverseOrder/printRerverse2.java" afterDir="false" />
-    </list>
+    <list default="true" id="c5fedcea-4031-404f-8598-0d63de7e53e3" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,11 +15,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="minNumberInRotateArray.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="minNumberInRotateArray.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/rotateArray/minNumberInRotateArray.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="297">
               <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Fibonacci.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/fibonacci/Fibonacci.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -55,7 +61,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Easy/RobotCircle2.java" />
         <option value="$PROJECT_DIR$/src/Easy/HammingDistance.java" />
         <option value="$PROJECT_DIR$/src/Easy/FindComplement.java" />
         <option value="$PROJECT_DIR$/src/Easy/SelfDivingNumber.java" />
@@ -106,6 +111,7 @@
         <option value="$PROJECT_DIR$/src/Other/CodingOffer/algorithm/TwoStackReplaceQueue/TwoQueue.java" />
         <option value="$PROJECT_DIR$/src/Other/CodingOffer/algorithm/rotateArray/minNumberInRotateArray.java" />
         <option value="$PROJECT_DIR$/src/Other/CodingOffer/algorithm/printLinkReverseOrder/printRerverse2.java" />
+        <option value="$PROJECT_DIR$/src/Other/CodingOffer/algorithm/fibonacci/Fibonacci.java" />
       </list>
     </option>
   </component>
@@ -118,7 +124,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="251" />
     <option name="y" value="5" />
     <option name="width" value="1016" />
@@ -320,15 +326,16 @@
       <workItem from="1526868020478" duration="6578000" />
       <workItem from="1526889144037" duration="13177000" />
       <workItem from="1526971525950" duration="482000" />
-      <workItem from="1526988812116" duration="3545000" />
+      <workItem from="1526988812116" duration="5679000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="185805000" />
+    <option name="totallyTimeSpent" value="187939000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="251" y="5" width="1016" height="756" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -341,10 +348,10 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49934897" weight="0.19337016" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.499375" visible="true" weight="0.3171875" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.499375" weight="0.3171875" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49518305" visible="true" weight="0.247" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49518305" weight="0.247" />
       <window_info id="Web" order="3" sideWeight="0.5019608" side_tool="true" weight="0.20703125" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -775,13 +782,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/../../../jdk1.8.0_77/src.zip!/java/lang/AbstractStringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22576">
-          <caret line="1384" column="33" selection-start-line="1384" selection-start-column="33" selection-end-line="1384" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Easy/ReverseWords.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="629">
@@ -1141,6 +1141,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/fibonacci/Fibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
         </state>
       </provider>
     </entry>
