@@ -1,5 +1,9 @@
 package Other.CodingOffer.algorithm.fibonacci;
 
+/**
+ * 题目：不使用递归实现Fibonacci
+ *
+ */
 public class Fibonacci {
 
     // 1 1 2 3 5 8 13 21
