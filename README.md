@@ -1,2 +1,2 @@
 # LeetCode
-LeetCode题解
+It records my algorithm solution (include leetcode and interview) 
