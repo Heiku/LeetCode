@@ -16,15 +16,15 @@
     <favorites_list name="LeetCode-Solution" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MergeOrderList.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/mergeOrderList/MergeOrderList.java">
+    <leaf>
+      <file leaf-file-name="HasSubTree.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/hasSubTree/HasSubTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="323">
+              <caret line="41" column="25" lean-forward="true" selection-start-line="40" selection-start-column="8" selection-end-line="41" selection-end-column="25" />
               <folding>
-                <element signature="e#239#240#0" expanded="true" />
-                <element signature="e#269#270#0" expanded="true" />
+                <element signature="e#296#297#0" expanded="true" />
+                <element signature="e#326#327#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -58,7 +58,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Easy/HasAlternatingBits.java" />
         <option value="$PROJECT_DIR$/src/Easy/NumberOfLines.java" />
         <option value="$PROJECT_DIR$/src/Easy/RomanToIntTest.java" />
         <option value="$PROJECT_DIR$/src/Easy/RomanToInt.java" />
@@ -109,6 +108,7 @@
         <option value="$PROJECT_DIR$/src/Other/CodingOffer/algorithm/findKthToTail/FindKthToTail.java" />
         <option value="$PROJECT_DIR$/src/Other/CodingOffer/algorithm/reverseList/ReverseList.java" />
         <option value="$PROJECT_DIR$/src/Other/CodingOffer/algorithm/mergeOrderList/MergeOrderList.java" />
+        <option value="$PROJECT_DIR$/src/Other/CodingOffer/algorithm/hasSubTree/HasSubTree.java" />
       </list>
     </option>
   </component>
@@ -135,6 +135,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -152,28 +153,7 @@
               <item name="LeetCode-Solution" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Solution" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="interview" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-Solution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-Solution" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-Solution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-Solution" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="findKthToTail" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-Solution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-Solution" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="findKthToTail" type="462c0819:PsiDirectoryNode" />
-              <item name="FindKthToTail.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="LeetCode-Solution" type="b2602c69:ProjectViewProjectNode" />
@@ -186,7 +166,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -350,12 +329,15 @@
       <workItem from="1527229595640" duration="5367000" />
       <workItem from="1527337365353" duration="7242000" />
       <workItem from="1527402507767" duration="553000" />
-      <workItem from="1527430798672" duration="4050000" />
+      <workItem from="1527430798672" duration="4543000" />
+      <workItem from="1527493388157" duration="10000" />
+      <workItem from="1527493765754" duration="48000" />
+      <workItem from="1527515815133" duration="3731000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="217643000" />
+    <option name="totallyTimeSpent" value="221925000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
@@ -372,10 +354,10 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32872927" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49934897" weight="0.19337016" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.499375" visible="true" weight="0.35497236" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.499375" visible="true" weight="0.35497236" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49518305" visible="true" weight="0.24479167" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49518305" visible="true" weight="0.24479167" />
       <window_info id="Web" order="3" sideWeight="0.5019608" side_tool="true" weight="0.20703125" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -844,7 +826,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Easy/RomanToIntTest.java" />
     <entry file="file://$PROJECT_DIR$/src/Easy/RomanToInt.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -1187,11 +1168,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/mergeOrderList/MergeOrderList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="-95">
+          <caret line="23" column="23" lean-forward="true" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/hasSubTree/HasSubTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="41" column="25" lean-forward="true" selection-start-line="40" selection-start-column="8" selection-end-line="41" selection-end-column="25" />
           <folding>
-            <element signature="e#239#240#0" expanded="true" />
-            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
           </folding>
         </state>
       </provider>
