@@ -14,6 +14,6 @@ public class Main {
         }*/
 
         /*System.out.println((701-25) % 26);*/
-        System.out.println(0^ 1);
+        System.out.println(0 %  10);
     }
 }
