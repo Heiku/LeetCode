@@ -15,7 +15,12 @@ public class Main {
 
         /*System.out.println((701-25) % 26);*/
 
-        System.out.println(Integer.MIN_VALUE + " - " + Integer.MAX_VALUE);
+        long i = 36526445/ 62;
+        long j = i * 62;
+        long k = 36526445 - j;
+        System.out.println(i);
+        System.out.println(j);
+        System.out.println(k);
     }
 
 

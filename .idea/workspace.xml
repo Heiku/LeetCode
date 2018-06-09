@@ -18,44 +18,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PrintMatrix.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/printMatrix/PrintMatrix.java">
+      <file leaf-file-name="ShortAddressTransfer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/interview/ShortAddressTransfer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="57">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IsPopOrder.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/isPopOrder/IsPopOrder.java">
+      <file leaf-file-name="SortRGB.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/interview/SortRGB.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="123">
-              <caret line="7" column="60" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PrintFromTopToBottom.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/printTreeNode/PrintFromTopToBottom.java">
+      <file leaf-file-name="ZigZagConversion.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/medium/ZigZagConversion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+            <state relative-caret-position="932">
+              <caret line="61" selection-start-line="61" selection-end-line="61" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#758#759#0" expanded="true" />
+                <element signature="e#825#826#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AverageOfLevels.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Easy/AverageOfLevels.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -89,9 +78,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Easy/MoveZeroes.java" />
-        <option value="$PROJECT_DIR$/src/Other/CodingOffer/Singleton.java" />
-        <option value="$PROJECT_DIR$/src/Other/CodingOffer/singleton/Singleton3.java" />
         <option value="$PROJECT_DIR$/src/Other/CodingOffer/singleton/Singleton.java" />
         <option value="$PROJECT_DIR$/src/Other/CodingOffer/singleton/Singleton1.java" />
         <option value="$PROJECT_DIR$/src/Other/CodingOffer/singleton/Singleton2.java" />
@@ -136,10 +122,13 @@
         <option value="$PROJECT_DIR$/src/Other/CodingOffer/algorithm/mirrorTree/MirrorTree.java" />
         <option value="$PROJECT_DIR$/src/Other/CodingOffer/algorithm/myStack/MyStack.java" />
         <option value="$PROJECT_DIR$/src/interview/OneToFiveDiffNum.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/Other/CodingOffer/algorithm/printMatrix/PrintMatrix.java" />
         <option value="$PROJECT_DIR$/src/Other/CodingOffer/algorithm/isPopOrder/IsPopOrder.java" />
         <option value="$PROJECT_DIR$/src/Other/CodingOffer/algorithm/printTreeNode/PrintFromTopToBottom.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/interview/SortRGB.java" />
+        <option value="$PROJECT_DIR$/src/interview/ShortAddressTransfer.java" />
+        <option value="$PROJECT_DIR$/src/medium/ZigZagConversion.java" />
       </list>
     </option>
   </component>
@@ -153,10 +142,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-14" />
-    <option name="y" value="-14" />
-    <option name="width" value="1824" />
-    <option name="height" value="1099" />
+    <option name="x" value="932" />
+    <option name="width" value="1169" />
+    <option name="height" value="997" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -166,7 +154,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -180,162 +167,12 @@
               <item name="LeetCode-Solution" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="LeetCode-Solution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-Solution" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Easy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-Solution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-Solution" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="interview" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-Solution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-Solution" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-Solution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-Solution" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="binaryOne" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-Solution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-Solution" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="fibonacci" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-Solution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-Solution" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="findKthToTail" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-Solution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-Solution" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="hasSubTree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-Solution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-Solution" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="jumpFloor" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-Solution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-Solution" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="mergeOrderList" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-Solution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-Solution" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="myStack" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-Solution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-Solution" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="numberOf1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-Solution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-Solution" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="power" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-Solution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-Solution" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="printLinkReverseOrder" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-Solution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-Solution" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="printMatrix" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-Solution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-Solution" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="printTreeNode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-Solution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-Solution" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="reConstructBinaryTree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-Solution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-Solution" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="rectCover" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-Solution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-Solution" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="reOrderArray" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-Solution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-Solution" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="replaceSpace" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-Solution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-Solution" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="reverseList" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-Solution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-Solution" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="rotateArray" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-Solution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-Solution" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="TwoStackReplaceQueue" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -368,17 +205,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IsPopOrder">
-    <configuration name="IsPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Easy.IsPalindrome" />
-      <module name="LeetCode-Solution" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.ZigZagConversion">
     <configuration name="IsPopOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Other.CodingOffer.algorithm.isPopOrder.IsPopOrder" />
       <module name="LeetCode-Solution" />
@@ -393,8 +220,8 @@
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="LeetCode-Solution" />
     </configuration>
-    <configuration name="MaxComSubStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview.MaxComSubStr" />
+    <configuration name="ShortAddressTransfer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.ShortAddressTransfer" />
       <module name="LeetCode-Solution" />
       <extension name="coverage">
         <pattern>
@@ -403,12 +230,22 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="OneToFiveDiffNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview.OneToFiveDiffNum" />
+    <configuration name="SortRGB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.SortRGB" />
       <module name="LeetCode-Solution" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="interview.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ZigZagConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="medium.ZigZagConversion" />
+      <module name="LeetCode-Solution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -430,18 +267,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.IsPalindrome" />
-      <item itemvalue="Application.MaxComSubStr" />
-      <item itemvalue="Application.OneToFiveDiffNum" />
       <item itemvalue="Application.IsPopOrder" />
+      <item itemvalue="Application.ShortAddressTransfer" />
+      <item itemvalue="Application.SortRGB" />
+      <item itemvalue="Application.ZigZagConversion" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IsPopOrder" />
+        <item itemvalue="Application.ZigZagConversion" />
+        <item itemvalue="Application.SortRGB" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.OneToFiveDiffNum" />
-        <item itemvalue="Application.MaxComSubStr" />
-        <item itemvalue="Application.IsPalindrome" />
+        <item itemvalue="Application.ShortAddressTransfer" />
+        <item itemvalue="Application.IsPopOrder" />
       </list>
     </recent_temporary>
   </component>
@@ -523,12 +360,14 @@
       <workItem from="1528294671106" duration="3788000" />
       <workItem from="1528341698354" duration="1383000" />
       <workItem from="1528376170980" duration="8077000" />
-      <workItem from="1528424483186" duration="2377000" />
+      <workItem from="1528424483186" duration="3154000" />
+      <workItem from="1528443053114" duration="114000" />
+      <workItem from="1528527089339" duration="16735000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="268615000" />
+    <option name="totallyTimeSpent" value="286241000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -541,15 +380,15 @@
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="8" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50065106" side_tool="true" weight="0.34375" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50162864" side_tool="true" weight="0.40172166" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32872927" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49934897" weight="0.57044196" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.499375" weight="0.3660221" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49934897" weight="0.3107735" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.499375" weight="0.37857142" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49518305" visible="true" weight="0.19270833" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49518305" weight="0.38870794" />
       <window_info id="Web" order="3" sideWeight="0.5019608" side_tool="true" weight="0.20703125" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -557,7 +396,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" sideWeight="0.50481695" side_tool="true" weight="0.37760416" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.41436464" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49837133" visible="true" weight="0.40469614" />
       <window_info anchor="bottom" id="Spring" order="14" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -1050,6 +889,48 @@
           <properties />
           <option name="timeStamp" value="158" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/interview/ShortAddressTransfer.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/interview/SortRGB.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/interview/SortRGB.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/interview/SortRGB.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/interview/SortRGB.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/interview/SortRGB.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/medium/ZigZagConversion.java</url>
+          <line>71</line>
+          <properties />
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Easy/FindWords.java</url>
           <line>92</line>
@@ -1091,34 +972,10 @@
           <option name="timeStamp" value="52" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="159" />
+      <option name="time" value="176" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/TwoStackReplaceQueue/TwoQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../jdk1.8.0_77/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="1443" column="22" selection-start-line="1443" selection-start-column="22" selection-end-line="1443" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="19">
-            <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/findKthToTail.java" />
     <entry file="file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/reverseList.java" />
     <entry file="file://$PROJECT_DIR$/src/interview/GetAverage.java">
@@ -1379,25 +1236,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/MaxComSubStr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/myStack/MyStack.kt" />
     <entry file="file://$PROJECT_DIR$/src/interview/OneToFiveDiffNum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="319">
           <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
@@ -1415,10 +1258,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/printMatrix/PrintMatrix.java">
+    <entry file="file://$PROJECT_DIR$/src/Easy/AverageOfLevels.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        <state relative-caret-position="90">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/MaxComSubStr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/printTreeNode/PrintFromTopToBottom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-38">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1427,24 +1284,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/isPopOrder/IsPopOrder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="7" column="60" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
+        <state relative-caret-position="304">
+          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Easy/AverageOfLevels.java">
+    <entry file="file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/printMatrix/PrintMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/printTreeNode/PrintFromTopToBottom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        <state relative-caret-position="171">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/ShortAddressTransfer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/SortRGB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/ZigZagConversion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="932">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+          <folding>
+            <element signature="e#758#759#0" expanded="true" />
+            <element signature="e#825#826#0" expanded="true" />
           </folding>
         </state>
       </provider>
