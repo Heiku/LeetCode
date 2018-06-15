@@ -1,9 +1,7 @@
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.LinkedList;
-import java.util.List;
+import java.util.*;
+import java.util.concurrent.atomic.AtomicInteger;
 
 public class Main {
 
@@ -24,7 +22,7 @@ public class Main {
         System.out.println(j);
         System.out.println(k);*/
 
-        try {
+        /*try {
             Class c = Class.forName("Easy.IsPalindrome");
             Method method = c.getDeclaredMethod("isPalindrome");
             method.invoke(new Integer(121));
@@ -36,9 +34,24 @@ public class Main {
             e.printStackTrace();
         } catch (InvocationTargetException e) {
             e.printStackTrace();
+        }*/
+
+
+        PriorityQueue<Integer> queue = new PriorityQueue<>(5, new Comparator<Integer>() {
+            @Override
+            public int compare(Integer o1, Integer o2) {
+                return o2.compareTo(o1);
+            }
+        });
+
+        int []arr = new int[]{3,5,2,4,7};
+        for (int i = 0; i < arr.length; i++){
+            queue.offer(arr[i]);
         }
 
-
+        while (!queue.isEmpty()){
+            System.out.print(queue.poll());
+        }
 
     }
 
