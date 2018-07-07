@@ -1,11 +1,7 @@
-import java.lang.reflect.InvocationTargetException;
-import java.lang.reflect.Method;
-import java.util.*;
-import java.util.concurrent.atomic.AtomicInteger;
 
 public class Main {
 
-    public static void main(String[] args) {
+    public static void main(String[] args){
 
         /*String s = new String("heiku.github.io");
         String []arr = s.split("\\.");1
@@ -37,7 +33,7 @@ public class Main {
         }*/
 
 
-        PriorityQueue<Integer> queue = new PriorityQueue<>(5, new Comparator<Integer>() {
+        /*PriorityQueue<Integer> queue = new PriorityQueue<>(5, new Comparator<Integer>() {
             @Override
             public int compare(Integer o1, Integer o2) {
                 return o2.compareTo(o1);
@@ -51,10 +47,10 @@ public class Main {
 
         while (!queue.isEmpty()){
             System.out.print(queue.poll());
-        }
+        }*/
+
+
 
     }
-
-
 
 }
