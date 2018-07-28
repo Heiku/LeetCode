@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="c5fedcea-4031-404f-8598-0d63de7e53e3" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solution/interview/PrintOddEven$Even.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solution/interview/PrintOddEven$Even.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solution/interview/PrintOddEven$Odd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solution/interview/PrintOddEven$Odd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solution/interview/PrintOddEven.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solution/interview/PrintOddEven.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,11 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <file leaf-file-name="MinNumberInArray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/MinNumberInArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="50" column="39" lean-forward="true" selection-start-line="50" selection-start-column="39" selection-end-line="50" selection-end-column="39" />
+            <state relative-caret-position="228">
+              <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -30,28 +33,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LRUCache.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/interview/LRUCache.java">
+      <file leaf-file-name="GetUnglyNumber.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/GetUnglyNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="266">
+              <caret line="14" column="50" lean-forward="true" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#976#977#0" expanded="true" />
+                <element signature="e#1036#1037#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PrintOddEven.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/interview/PrintOddEven.java">
+      <file leaf-file-name="FirstNotRepeatChar.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/FirstNotRepeatChar.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="171">
-              <caret line="9" column="25" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="25" />
+              <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-end-line="10" />
               <folding>
-                <element signature="e#583#584#0" expanded="true" />
-                <element signature="e#627#628#0" expanded="true" />
-                <element signature="e#1549#1550#0" expanded="true" />
-                <element signature="e#1593#1594#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#836#837#0" expanded="true" />
+                <element signature="e#908#909#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -89,12 +93,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Other/CodingOffer/algorithm/fibonacci/Fibonacci.java" />
-        <option value="$PROJECT_DIR$/src/Other/CodingOffer/algorithm/binaryOne/binaryFindOne.java" />
-        <option value="$PROJECT_DIR$/src/Other/CodingOffer/algorithm/jumpFloor/JumpFloor.java" />
-        <option value="$PROJECT_DIR$/src/Other/CodingOffer/algorithm/jumpFloor/JumpFloorII.java" />
-        <option value="$PROJECT_DIR$/src/Other/CodingOffer/algorithm/rectCover/RectCover.java" />
-        <option value="$PROJECT_DIR$/src/Other/CodingOffer/algorithm/power/Power.java" />
         <option value="$PROJECT_DIR$/src/Other/CodingOffer/algorithm/reOrderArray/ReOrderArray.java" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/interview/GetAverage.java" />
@@ -137,9 +135,15 @@
         <option value="$PROJECT_DIR$/src/Easy/TwoSum.java" />
         <option value="$PROJECT_DIR$/src/Easy/TreeSum.java" />
         <option value="$PROJECT_DIR$/src/Other/CodingOffer/algorithm/treeConvertToList/Test.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/interview/LRUCache.java" />
         <option value="$PROJECT_DIR$/src/interview/PrintOddEven.java" />
+        <option value="$PROJECT_DIR$/src/interview/ExchangeTwoInt.java" />
+        <option value="$PROJECT_DIR$/src/Other/CodingOffer/algorithm/SumWithOut.java" />
+        <option value="$PROJECT_DIR$/src/Other/CodingOffer/algorithm/AddWithout.java" />
+        <option value="$PROJECT_DIR$/src/Other/CodingOffer/algorithm/MinNumberInArray.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/Other/CodingOffer/algorithm/FirstNotRepeatChar.java" />
+        <option value="$PROJECT_DIR$/src/Other/CodingOffer/algorithm/GetUnglyNumber.java" />
       </list>
     </option>
   </component>
@@ -165,7 +169,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -190,18 +193,12 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="LeetCode-Solution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-Solution" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="treeConvertToList" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -235,9 +232,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PrintOddEven">
-    <configuration name="GetAllFileFromFolder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview.GetAllFileFromFolder" />
+  <component name="RunManager" selected="Application.FirstNotRepeatChar">
+    <configuration name="ExchangeTwoInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.ExchangeTwoInt" />
       <module name="LeetCode-Solution" />
       <extension name="coverage">
         <pattern>
@@ -246,12 +243,22 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Josephus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview.Josephus" />
+    <configuration name="FirstNotRepeatChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Other.CodingOffer.algorithm.FirstNotRepeatChar" />
       <module name="LeetCode-Solution" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interview.*" />
+          <option name="PATTERN" value="Other.CodingOffer.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="GetUnglyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Other.CodingOffer.algorithm.GetUnglyNumber" />
+      <module name="LeetCode-Solution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Other.CodingOffer.algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -260,40 +267,30 @@
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="LeetCode-Solution" />
     </configuration>
-    <configuration name="PrintOddEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview.PrintOddEven" />
+    <configuration name="SumWithOut" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Other.CodingOffer.algorithm.SumWithOut" />
       <module name="LeetCode-Solution" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interview.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="TreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Easy.TreeSum" />
-      <module name="LeetCode-Solution" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Easy.*" />
+          <option name="PATTERN" value="Other.CodingOffer.algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.GetAllFileFromFolder" />
-      <item itemvalue="Application.Josephus" />
-      <item itemvalue="Application.TreeSum" />
-      <item itemvalue="Application.PrintOddEven" />
+      <item itemvalue="Application.ExchangeTwoInt" />
+      <item itemvalue="Application.SumWithOut" />
+      <item itemvalue="Application.GetUnglyNumber" />
+      <item itemvalue="Application.FirstNotRepeatChar" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrintOddEven" />
-        <item itemvalue="Application.TreeSum" />
+        <item itemvalue="Application.FirstNotRepeatChar" />
+        <item itemvalue="Application.GetUnglyNumber" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Josephus" />
-        <item itemvalue="Application.GetAllFileFromFolder" />
+        <item itemvalue="Application.SumWithOut" />
+        <item itemvalue="Application.ExchangeTwoInt" />
       </list>
     </recent_temporary>
   </component>
@@ -393,15 +390,22 @@
       <workItem from="1530849129686" duration="24687000" />
       <workItem from="1531038120779" duration="7794000" />
       <workItem from="1531103421160" duration="1212000" />
-      <workItem from="1531125758734" duration="3438000" />
+      <workItem from="1531125758734" duration="3507000" />
+      <workItem from="1531326641708" duration="1230000" />
+      <workItem from="1531710501523" duration="25000" />
+      <workItem from="1531733043875" duration="3000" />
+      <workItem from="1531994556976" duration="1482000" />
+      <workItem from="1532599812492" duration="3358000" />
+      <workItem from="1532765247951" duration="331000" />
+      <workItem from="1532765937123" duration="7250000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="376651000" />
+    <option name="totallyTimeSpent" value="390399000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -416,7 +420,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32872927" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49934897" weight="0.46685082" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.499375" weight="0.33655173" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.499375" weight="0.3351724" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49518305" visible="true" weight="0.18619792" />
@@ -427,7 +431,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" sideWeight="0.50481695" side_tool="true" weight="0.37760416" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49837133" weight="0.3463687" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49837133" visible="true" weight="0.34530386" />
       <window_info anchor="bottom" id="Spring" order="14" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -1050,6 +1054,60 @@
           <properties />
           <option name="timeStamp" value="186" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/GetUnglyNumber.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="187" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/GetUnglyNumber.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="190" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/GetUnglyNumber.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/GetUnglyNumber.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/FirstNotRepeatChar.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/FirstNotRepeatChar.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="195" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/FirstNotRepeatChar.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/FirstNotRepeatChar.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="197" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/FirstNotRepeatChar.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="199" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Easy/FindWords.java</url>
           <line>92</line>
@@ -1091,59 +1149,10 @@
           <option name="timeStamp" value="52" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="187" />
+      <option name="time" value="200" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/interview/ShortAddressTransfer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="636">
-          <caret line="57" column="5" lean-forward="true" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/verifySquenceOfBST/VerifySquenceOfBST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="43" column="16" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/randomListNode/RandomListNodeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Easy/IsPalindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="31" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../jdk1.8.0_77/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="2127" column="37" selection-start-line="2127" selection-start-column="24" selection-end-line="2127" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../jdk1.8.0_77/jre/lib/rt.jar!/sun/reflect/MethodAccessor.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../jdk1.8.0_77/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/../../../jdk1.8.0_77/jre/lib/rt.jar!/sun/reflect/ReflectionFactory.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1116">
@@ -1155,13 +1164,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="388">
           <caret line="497" column="18" selection-start-line="497" selection-start-column="18" selection-end-line="497" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/OneToFiveDiffNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -1204,13 +1206,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/GetAllFileFromFolder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="112" column="14" selection-start-line="112" selection-start-column="14" selection-end-line="112" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -1347,13 +1342,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../jdk1.8.0_77/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="108" column="70" lean-forward="true" selection-start-line="108" selection-start-column="70" selection-end-line="108" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/../../../jdk1.8.0_77/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-364">
@@ -1372,20 +1360,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../jdk1.8.0_77/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="811">
-          <caret line="657" column="13" lean-forward="true" selection-start-line="657" selection-start-column="13" selection-end-line="657" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/SortRGB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="35" column="19" lean-forward="true" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -1432,35 +1406,131 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/interview/LRUCache.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="50" column="39" lean-forward="true" selection-start-line="50" selection-start-column="39" selection-end-line="50" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="114">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/LRUCache.java">
+    <entry file="file://$PROJECT_DIR$/src/interview/GetAllFileFromFolder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="285">
+          <caret line="35" column="37" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/SortRGB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="35" column="19" lean-forward="true" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/interview/PrintOddEven.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="25" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="25" />
+        <state relative-caret-position="-494">
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/AddWithout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/OneToFiveDiffNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="61" lean-forward="true" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/ExchangeTwoInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/SumWithOut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk1.8.0_77/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="1168" column="26" selection-start-line="1168" selection-start-column="22" selection-end-line="1168" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk1.8.0_77/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="175" column="42" lean-forward="true" selection-start-line="175" selection-start-column="42" selection-end-line="175" selection-end-column="42" />
           <folding>
-            <element signature="e#583#584#0" expanded="true" />
-            <element signature="e#627#628#0" expanded="true" />
-            <element signature="e#1549#1550#0" expanded="true" />
-            <element signature="e#1593#1594#0" expanded="true" />
+            <element signature="e#6252#6253#0" expanded="true" />
+            <element signature="e#6320#6321#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="53" column="36" lean-forward="true" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk1.8.0_77/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="593" column="19" selection-start-line="593" selection-start-column="19" selection-end-line="593" selection-end-column="19" />
+          <folding>
+            <element signature="e#23597#23598#0" expanded="true" />
+            <element signature="e#23651#23652#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/MinNumberInArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/GetUnglyNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="50" lean-forward="true" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#976#977#0" expanded="true" />
+            <element signature="e#1036#1037#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/FirstNotRepeatChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#836#837#0" expanded="true" />
+            <element signature="e#908#909#0" expanded="true" />
           </folding>
         </state>
       </provider>
