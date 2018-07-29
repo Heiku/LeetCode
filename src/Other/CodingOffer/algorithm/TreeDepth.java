@@ -8,6 +8,8 @@ import java.util.Queue;
  *
  * 题目：输入一棵二叉树，求该树的深度。从根结点到叶结点依次经过的结点（含根、叶结点）形成树的一条路径，最长路径的长度为树的深度。
  *
+ * 思路：递归，递归过程中比较左子树与右子树的高度，较高者+1；
+ *      非递归，根据层数+1，使用count和nextCount在判断是否遍历完当前层，遍历完则+1
  */
 public class TreeDepth {
     /*public int TreeDepth(TreeNode root) {
