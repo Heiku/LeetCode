@@ -51,7 +51,7 @@ public class Main {
             System.out.print(queue.poll());
         }*/
 
-        System.out.println(3 % 8 );
+
     }
 
 }
