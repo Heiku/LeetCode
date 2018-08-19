@@ -12,9 +12,6 @@ package Other.CodingOffer.algorithm;
 public class EntryNodeOfLoop {
     public ListNode EntryNodeOfLoop(ListNode pHead)
     {
-        if (pHead == null)
-            return null;
-
         ListNode fast = pHead;
         ListNode slow = pHead;
 
@@ -22,17 +19,18 @@ public class EntryNodeOfLoop {
             fast = fast.next.next;
             slow = slow.next;
 
-            if (fast == slow)
+            if(fast == slow)
                 break;
         }
 
-        if(fast == null || fast.next == null)
+        if (fast == null)
             return null;
 
         fast = pHead;
+
         while (fast != slow){
-            fast =fast.next;
-            slow =slow.next;
+            fast = fast.next;
+            slow = slow.next;
         }
         return fast;
     }

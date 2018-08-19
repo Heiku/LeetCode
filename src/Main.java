@@ -51,7 +51,9 @@ public class Main {
             System.out.print(queue.poll());
         }*/
 
-
+        boolean flag = true;
+        flag = !flag;
+        System.out.println(flag);
     }
 
 }
