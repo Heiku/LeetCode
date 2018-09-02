@@ -1,7 +1,10 @@
 import java.util.LinkedList;
 import java.util.List;
+import java.util.concurrent.Callable;
 
 public class Main {
+
+
 
     public static void main(String[] args){
 
@@ -21,7 +24,7 @@ public class Main {
         System.out.println(k);*/
 
         /*try {
-            Class c = Class.forName("Easy.IsPalindrome");
+            Class c = Class.forName("Something.IsPalindrome");
             Method method = c.getDeclaredMethod("isPalindrome");
             method.invoke(new Integer(121));
         } catch (ClassNotFoundException e) {
@@ -51,8 +54,19 @@ public class Main {
             System.out.print(queue.poll());
         }*/
 
-        int a = 3072 ;
-        System.out.println(a >> 10);
+
+        char ch = 'd';
+
+        switch (ch){
+
+            case 'a' :
+                System.out.println("a");
+                break;
+            default:
+            case 'b':
+                System.out.println("b");
+                break;
+        }
     }
 
 }
