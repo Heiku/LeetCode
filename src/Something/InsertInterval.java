@@ -71,6 +71,7 @@ class Interval {
     Interval() {
         start = 0;
         end = 0;
+
     }
 
     Interval(int s, int e) {

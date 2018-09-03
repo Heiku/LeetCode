@@ -53,20 +53,26 @@ public class Main {
         while (!queue.isEmpty()){
             System.out.print(queue.poll());
         }*/
+        /*try {
+            System.out.println("try-");
+            int[] a = new int[0];
+            a[0] = 1;
+            System.out.println(a[0]+"-");
+            return;
+        } catch (Exception e) {
+            System.out.println("catch-");
+        } finally {
+            System.out.println("finally");
+        }*/
+        System.out.println("3.0" + 2+1);
+        char c = '你';
+        System.out.println(c);
+
+        String a = "helloworld";
+        String b = "hello" + "world";
+        System.out.println(a == b);
 
 
-        char ch = 'd';
-
-        switch (ch){
-
-            case 'a' :
-                System.out.println("a");
-                break;
-            default:
-            case 'b':
-                System.out.println("b");
-                break;
-        }
     }
 
 }

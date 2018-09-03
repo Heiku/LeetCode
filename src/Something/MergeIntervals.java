@@ -35,8 +35,6 @@ public class MergeIntervals {
             return newList;
 
 
-        // 根据start降序排序
-        Collections.sort(intervals, Comparator.comparingInt(e -> e.start));
         newList.add(intervals.get(0));
 
 
