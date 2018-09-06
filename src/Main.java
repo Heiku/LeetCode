@@ -1,3 +1,4 @@
+import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.concurrent.Callable;
@@ -64,15 +65,23 @@ public class Main {
         } finally {
             System.out.println("finally");
         }*/
-        System.out.println("3.0" + 2+1);
+       /* System.out.println("3.0" + 2+1);
         char c = '你';
         System.out.println(c);
 
         String a = "helloworld";
         String b = "hello" + "world";
-        System.out.println(a == b);
+        System.out.println(a == b);*/
 
 
+
+        /*int i = 012;   // 以0开头的int类型为8进制，即 1 * 8 + 2 * 1 = 10
+        char a = 'a';
+        System.out.println((i > 11) ? i : a);
+        System.out.println((i > 11) ? 65 : a);
+        System.out.println((i > 11) ? 65.0 : a);
+
+        System.out.println("" + true + "");*/
     }
 
 }

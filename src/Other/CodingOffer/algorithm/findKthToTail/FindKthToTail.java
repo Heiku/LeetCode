@@ -17,7 +17,7 @@ public class FindKthToTail {
             p = p.next;
         }
 
-        if (i > k){
+        if (i != k){
             return null;
         }
 
