@@ -21,6 +21,11 @@ import java.util.Scanner;
  * 6 3
  * 1 3 5 2 5 4
  * 1 1 0 1 0 0
+ *
+ * 输出
+ * 16
+ *
+ * 思路：先将所有为1的值相加，接着从头开始找0，长度为k，（注意越界），找到所有为0的值相加，一直匹配直到max
  */
 public class Sleep {
     public static void main(String[] args) {
@@ -28,6 +33,7 @@ public class Sleep {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int k = sc.nextInt();
+
 
         int[] point = new int[n];
         for (int i = 0; i < n; i++){
@@ -40,16 +46,26 @@ public class Sleep {
         }
 
 
-        int sum = 0;
-        for (int i = 0; i < n; i++){
-            int total = 0;
-            int j = i + k - 1;
+       int max = 0;
+        int re = 0;
+        for (int i = 0; i< n; i++){
+            if (clear[i] == 0){
+                int t = 0;
+                for (int j = i; j < i+k; j++){
+                    if (j >= n)
+                        break;
+                    if (clear[j] == 0)
+                        t += point[j];
+                }
 
-            if ((i < j || i > j) && clear[i] == 1){
-                total += clear[i];
+                if (t > max)
+                    max = t;
+
+            }else {
+                re += point[i];
             }
         }
 
-        System.out.println(sum);
+        System.out.println(re + max);
     }
 }
