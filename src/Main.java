@@ -82,6 +82,9 @@ public class Main {
         System.out.println((i > 11) ? 65.0 : a);
 
         System.out.println("" + true + "");*/
+
+
+        System.out.println(3 / 10);
     }
 
 }
