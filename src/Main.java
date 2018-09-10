@@ -84,7 +84,28 @@ public class Main {
         System.out.println("" + true + "");*/
 
 
-        System.out.println(3 / 10);
+        /*public int GetUglyNumber_Solution(int index) {
+            int count = 0;
+            int i;
+            for(i=1;count<=index;i++){
+                if(isUgly(i))
+                    count++;
+            }
+            return i;
+        }
+
+        public boolean isUgly(int n){
+            while(n%3==0)
+                n = n/3;
+            while(n%2==0)
+                n = n/2;
+            while(n%5==0)
+                n = n/5;
+            if(n==1)
+                return true;
+            else
+                return false;
+        }*/
     }
 
 }
