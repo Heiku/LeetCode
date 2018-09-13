@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5fedcea-4031-404f-8598-0d63de7e53e3" name="Default" comment="" />
+    <list default="true" id="c5fedcea-4031-404f-8598-0d63de7e53e3" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Other/CodingOffer/algorithm/reverseList/ReverseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Other/CodingOffer/algorithm/reverseList/ReverseList.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,8 +22,8 @@
       <file leaf-file-name="ForkJoinTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/nothing/ForkJoinTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-846">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state>
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -27,11 +31,56 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SwitchTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SwitchTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/nothing/SwitchTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+            <state relative-caret-position="133">
+              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReverseList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/reverseList/ReverseList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bag.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/base/Bag.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="XunLei_First.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ready/XunLei_First.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="XunLei_Second.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ready/XunLei_Second.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-12">
+              <caret line="98" column="24" lean-forward="true" selection-start-line="98" selection-start-column="24" selection-end-line="98" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -83,10 +132,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ready/NumbersOfProblem.java" />
-        <option value="$PROJECT_DIR$/src/ready/ManayFish.java" />
-        <option value="$PROJECT_DIR$/src/interview/LCS.java" />
-        <option value="$PROJECT_DIR$/src/ready/CPUTask.java" />
         <option value="$PROJECT_DIR$/src/ready/Choir.java" />
         <option value="$PROJECT_DIR$/src/medium/LengthOfLongestSubstring.java" />
         <option value="$PROJECT_DIR$/src/interview/DiagonalPrint.java" />
@@ -125,7 +170,6 @@
         <option value="$PROJECT_DIR$/src/ready/JD_First.java" />
         <option value="$PROJECT_DIR$/src/ready/JD_Second.java" />
         <option value="$PROJECT_DIR$/src/nothing/StaticTest.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/ready/DianXin_Thrid.java" />
         <option value="$PROJECT_DIR$/src/ready/DianXin_First.java" />
         <option value="$PROJECT_DIR$/src/ready/DianXin_Second.java" />
@@ -134,6 +178,11 @@
         <option value="$PROJECT_DIR$/src/nothing/ThreadRunimeExceptionTest.java" />
         <option value="$PROJECT_DIR$/src/nothing/ForkJoinTest.java" />
         <option value="$PROJECT_DIR$/src/nothing/SwitchTest.java" />
+        <option value="$PROJECT_DIR$/src/Other/CodingOffer/algorithm/reverseList/ReverseList.java" />
+        <option value="$PROJECT_DIR$/src/base/Bag.java" />
+        <option value="$PROJECT_DIR$/src/ready/XunLei_First.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/ready/XunLei_Second.java" />
       </list>
     </option>
   </component>
@@ -159,7 +208,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -171,6 +219,12 @@
               <item name="LeetCode-Solution" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Solution" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Solution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Solution" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode-Solution" type="b2602c69:ProjectViewProjectNode" />
@@ -188,6 +242,19 @@
               <item name="LeetCode-Solution" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Solution" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Solution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Solution" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="reverseList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Solution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Solution" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ready" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -195,11 +262,12 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="TreeSet&#9;PSI&#9;JAVA://java.util.TreeSet&#10;HashSet&#9;FILE&#9;jar://E:/Java/jdk1.8.0_77/src.zip!/java/util/HashSet.java&#10;Main&#9;FILE&#9;file://E:/Java/projects/SISE/LeetCode-Solution/src/Main.java&#10;lengthOfLongestSubstring&#9;PSI&#9;JAVA://medium.LengthOfLongestSubstring&#10;HashMap&#9;FILE&#9;jar://E:/Java/jdk1.8.0_77/src.zip!/java/util/WeakHashMap.java&#10;WeakMap&#9;PSI&#9;JAVA://java.util.WeakHashMap&#10;await&#9;PSI&#9;JAVA://java.util.concurrent.CountDownLatch#await&#10;Semap&#9;PSI&#9;JAVA://java.util.concurrent.Semaphore&#10;barrier&#9;PSI&#9;JAVA://java.util.concurrent.CyclicBarrier&#10;CountDo&#9;PSI&#9;JAVA://java.util.concurrent.CountDownLatch&#10;Object&#9;FILE&#9;jar://E:/Java/jdk1.8.0_77/src.zip!/java/lang/Object.java&#10;ConditionO&#9;PSI&#9;JAVA://java.util.concurrent.locks.AbstractQueuedLongSynchronizer.ConditionObject&#10;Condition&#9;PSI&#9;JAVA://java.util.concurrent.locks.Condition&#10;hashS&#9;PSI&#9;JAVA://java.util.HashSet&#10;RunTimeExce&#9;PSI&#9;JAVA://java.lang.RuntimeException&#10;Vector&#9;PSI&#9;JAVA://java.util.Vector&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList&#10;Hash&#9;FILE&#9;jar://E:/Java/jdk1.8.0_77/src.zip!/java/util/Hashtable.java&#10;hashMa&#9;PSI&#9;JAVA://java.util.HashMap&#10;List&#9;FILE&#9;jar://E:/Java/jdk1.8.0_77/src.zip!/java/util/List.java&#10;HashTable&#9;PSI&#9;JAVA://java.util.Hashtable&#10;Integer&#9;PSI&#9;JAVA://java.lang.Integer&#10;Math&#9;PSI&#9;JAVA://java.lang.Math&#10;Conc&#9;FILE&#9;jar://E:/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/ConcurrentHashMap.java&#10;Objec&#9;PSI&#9;JAVA://java.lang.Object&#10;Concurrent&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;TreeMap&#9;PSI&#9;JAVA://java.util.TreeMap&#10;MAIN&#9;FILE&#9;file://E:/Java/projects/SISE/LeetCode-Solution/src/Main.java&#10;Collections&#9;PSI&#9;JAVA://java.util.Collections&#10;ThreadLocal&#9;PSI&#9;JAVA://java.lang.ThreadLocal&#10;NativeMethodAccessorImpl&#9;PSI&#9;JAVA://sun.reflect.NativeMethodAccessorImpl&#10;ReflectionF&#9;PSI&#9;JAVA://sun.reflect.ReflectionFactory&#10;AbstractQue&#9;PSI&#9;JAVA://java.util.concurrent.locks.AbstractQueuedSynchronizer&#10;ClassLoader&#9;PSI&#9;JAVA://java.lang.ClassLoader" />
+    <property name="SearchEverywhereHistoryKey" value="Main&#9;FILE&#9;file://E:/Java/projects/SISE/LeetCode-Solution/src/Main.java&#10;String&#9;FILE&#9;jar://E:/Java/jdk1.8.0_77/jre/lib/rt.jar!/java/lang/String.class&#10;TreeSet&#9;PSI&#9;JAVA://java.util.TreeSet&#10;HashSet&#9;FILE&#9;jar://E:/Java/jdk1.8.0_77/src.zip!/java/util/HashSet.java&#10;lengthOfLongestSubstring&#9;PSI&#9;JAVA://medium.LengthOfLongestSubstring&#10;HashMap&#9;FILE&#9;jar://E:/Java/jdk1.8.0_77/src.zip!/java/util/WeakHashMap.java&#10;WeakMap&#9;PSI&#9;JAVA://java.util.WeakHashMap&#10;await&#9;PSI&#9;JAVA://java.util.concurrent.CountDownLatch#await&#10;Semap&#9;PSI&#9;JAVA://java.util.concurrent.Semaphore&#10;barrier&#9;PSI&#9;JAVA://java.util.concurrent.CyclicBarrier&#10;CountDo&#9;PSI&#9;JAVA://java.util.concurrent.CountDownLatch&#10;Object&#9;FILE&#9;jar://E:/Java/jdk1.8.0_77/src.zip!/java/lang/Object.java&#10;ConditionO&#9;PSI&#9;JAVA://java.util.concurrent.locks.AbstractQueuedLongSynchronizer.ConditionObject&#10;Condition&#9;PSI&#9;JAVA://java.util.concurrent.locks.Condition&#10;hashS&#9;PSI&#9;JAVA://java.util.HashSet&#10;RunTimeExce&#9;PSI&#9;JAVA://java.lang.RuntimeException&#10;Vector&#9;PSI&#9;JAVA://java.util.Vector&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList&#10;Hash&#9;FILE&#9;jar://E:/Java/jdk1.8.0_77/src.zip!/java/util/Hashtable.java&#10;hashMa&#9;PSI&#9;JAVA://java.util.HashMap&#10;List&#9;FILE&#9;jar://E:/Java/jdk1.8.0_77/src.zip!/java/util/List.java&#10;HashTable&#9;PSI&#9;JAVA://java.util.Hashtable&#10;Integer&#9;PSI&#9;JAVA://java.lang.Integer&#10;Math&#9;PSI&#9;JAVA://java.lang.Math&#10;Conc&#9;FILE&#9;jar://E:/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/ConcurrentHashMap.java&#10;Objec&#9;PSI&#9;JAVA://java.lang.Object&#10;Concurrent&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;TreeMap&#9;PSI&#9;JAVA://java.util.TreeMap&#10;MAIN&#9;FILE&#9;file://E:/Java/projects/SISE/LeetCode-Solution/src/Main.java&#10;Collections&#9;PSI&#9;JAVA://java.util.Collections&#10;ThreadLocal&#9;PSI&#9;JAVA://java.lang.ThreadLocal&#10;NativeMethodAccessorImpl&#9;PSI&#9;JAVA://sun.reflect.NativeMethodAccessorImpl&#10;ReflectionF&#9;PSI&#9;JAVA://sun.reflect.ReflectionFactory&#10;AbstractQue&#9;PSI&#9;JAVA://java.util.concurrent.locks.AbstractQueuedSynchronizer&#10;ClassLoader&#9;PSI&#9;JAVA://java.lang.ClassLoader" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
@@ -228,27 +296,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ForkJoinTest">
-    <configuration name="DianXin_First" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ready.DianXin_First" />
-      <module name="LeetCode-Solution" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ready.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="FinalExtend" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nothing.FinalExtend" />
-      <module name="LeetCode-Solution" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="nothing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.IsPrime">
     <configuration name="ForkJoinTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="nothing.ForkJoinTest" />
       <module name="LeetCode-Solution" />
@@ -259,40 +307,54 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="IntegerEqualInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nothing.IntegerEqualInt" />
+    <configuration name="IsPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ready.IsPrime" />
       <module name="LeetCode-Solution" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nothing.*" />
+          <option name="PATTERN" value="ready.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ThreadRunimeExceptionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nothing.ThreadRunimeExceptionTest" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="LeetCode-Solution" />
+    </configuration>
+    <configuration name="XunLei_First" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ready.XunLei_First" />
       <module name="LeetCode-Solution" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nothing.*" />
+          <option name="PATTERN" value="ready.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="XunLei_Second" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ready.XunLei_Second" />
+      <module name="LeetCode-Solution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ready.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <list>
-      <item itemvalue="Application.DianXin_First" />
-      <item itemvalue="Application.FinalExtend" />
-      <item itemvalue="Application.IntegerEqualInt" />
-      <item itemvalue="Application.ThreadRunimeExceptionTest" />
       <item itemvalue="Application.ForkJoinTest" />
+      <item itemvalue="Application.XunLei_First" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.XunLei_Second" />
+      <item itemvalue="Application.IsPrime" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IsPrime" />
+        <item itemvalue="Application.XunLei_Second" />
+        <item itemvalue="Application.XunLei_First" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.ForkJoinTest" />
-        <item itemvalue="Application.ThreadRunimeExceptionTest" />
-        <item itemvalue="Application.IntegerEqualInt" />
-        <item itemvalue="Application.FinalExtend" />
-        <item itemvalue="Application.DianXin_First" />
       </list>
     </recent_temporary>
   </component>
@@ -418,45 +480,46 @@
       <workItem from="1536130805903" duration="10303000" />
       <workItem from="1536234853849" duration="1729000" />
       <workItem from="1536307144020" duration="35889000" />
-      <workItem from="1536549093749" duration="12202000" />
+      <workItem from="1536549093749" duration="12851000" />
+      <workItem from="1536715508108" duration="13790000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="609570000" />
+    <option name="totallyTimeSpent" value="624009000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.4856771" side_tool="true" weight="0.33425415" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.53059894" weight="0.34668508" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.499375" weight="0.32458565" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="8" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49934897" visible="true" weight="0.26519337" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.4856771" side_tool="true" weight="0.33425415" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32872927" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49934897" weight="0.26519337" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.51432294" weight="0.33425415" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49518305" visible="true" weight="0.20442708" />
       <window_info id="Web" order="3" sideWeight="0.5019608" side_tool="true" weight="0.20703125" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32872927" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" sideWeight="0.50481695" side_tool="true" weight="0.37760416" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.53059894" weight="0.34668508" />
       <window_info anchor="bottom" id="Spring" order="14" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32872927" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1285,6 +1348,24 @@
           <properties />
           <option name="timeStamp" value="246" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ready/XunLei_Second.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="248" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ready/XunLei_Second.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="249" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ready/XunLei_Second.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="250" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Something/FindWords.java</url>
           <line>92</line>
@@ -1369,52 +1450,10 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="247" />
+      <option name="time" value="251" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/SumWithOut.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/AddWithout.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../jdk1.8.0_77/src.zip!/java/util/concurrent/locks/Condition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4986">
-          <caret line="178" column="17" selection-start-line="178" selection-start-column="17" selection-end-line="178" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nothing/inter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/singleton/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../jdk1.8.0_77/src.zip!/java/util/concurrent/locks/AbstractQueuedLongSynchronizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3252">
-          <caret line="1609" column="17" selection-start-line="1609" selection-start-column="17" selection-end-line="1609" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/singleton/Singleton2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -1451,10 +1490,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17746">
           <caret line="979" column="17" selection-start-line="979" selection-start-column="17" selection-end-line="979" selection-end-column="17" />
-          <folding>
-            <element signature="e#45599#45600#0" expanded="true" />
-            <element signature="e#45656#45657#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1600,20 +1635,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../jdk1.8.0_77/src.zip!/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-302">
-          <caret line="642" column="25" selection-start-line="642" selection-start-column="25" selection-end-line="642" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/LengthOfLongestSubstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="2" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ready/JD_First.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
@@ -1645,13 +1666,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="95" lean-forward="true" selection-start-line="95" selection-end-line="95" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/interview/MaxComSubStr.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="141">
@@ -1680,13 +1694,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/nothing/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nothing/Integer.java" />
     <entry file="file://$PROJECT_DIR$/src/nothing/FinalExtend.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
@@ -1727,8 +1735,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/nothing/ForkJoinTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-846">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state>
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1766,8 +1774,74 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/nothing/SwitchTest.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/reverseList/ReverseList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/LengthOfLongestSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="27" column="2" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk1.8.0_77/src.zip!/java/lang/CharSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1444">
+          <caret line="58" column="17" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk1.8.0_77/jre/lib/rt.jar!/java/lang/String.class">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
-          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+          <caret line="22" column="76" selection-start-line="22" selection-start-column="71" selection-end-line="22" selection-end-column="83" />
+          <folding>
+            <element signature="e#0#36011#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/base/Bag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk1.8.0_77/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="642" column="25" selection-start-line="642" selection-start-column="25" selection-end-line="642" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12">
+          <caret line="98" column="24" lean-forward="true" selection-start-line="98" selection-start-column="24" selection-end-line="98" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ready/XunLei_First.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ready/XunLei_Second.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>

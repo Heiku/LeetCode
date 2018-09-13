@@ -2,6 +2,8 @@ package ready;
 
 /**
  * Created by Heiku on 2018/9/2
+ *
+ * 判断是否是素数
  */
 public class IsPrime {
 
