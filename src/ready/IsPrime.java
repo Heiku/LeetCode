@@ -23,6 +23,6 @@ public class IsPrime {
     }
 
     public static void main(String[] args) {
-        System.out.println(new IsPrime().isPrime(9));
+        System.out.println(new IsPrime().isPrime(49));
     }
 }
