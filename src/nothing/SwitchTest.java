@@ -9,8 +9,25 @@ package nothing;
 public class SwitchTest {
     public static void main(String[] args) {
 
-        int i = 0;
-        long l = 0l;
+        /*int i = 12;
+        long j = 5;*/
+
+
+        int i = 12;
+        int j = 5;
+
+        switch (i / j){
+
+            case 2:
+                j += 5;
+
+            case 1: i += 1;
+
+            default: i += 1;
+        }
+
+        System.out.println(i);
+        System.out.println(j);
 
     }
 }
