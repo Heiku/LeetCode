@@ -23,6 +23,7 @@ public class SwitchTest {
 
             case 1: i += 1;
 
+
             default: i += 1;
         }
 

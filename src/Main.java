@@ -6,8 +6,7 @@ import java.util.concurrent.Callable;
 public class Main {
 
 
-
-    public static void main(String[] args){
+    public static void main(String[] args) {
 
         /*String s = new String("heiku.github.io");
         String []arr = s.split("\\.");1
@@ -120,7 +119,30 @@ public class Main {
         }
         if(b>1)	return false;// 如果最大公约数大于1，表示两个正整数不互质
         else return true;	// 如果最大公约数等于1,表示两个正整数互质*/
+        /*int func(vector<int>& vec)
+                {
+                        sort(vec.begin(), vec.end());
+        int n = vec.size();
+        vec.push_back(99999);
+        int count(0);
+        int left(0);
+        for (auto i = 0; i < n;++i)
+        {
+            for (auto j = i + 1; j < n;++j)
+            {
+                int sum = vec[i] + vec[j];
+                for (auto k = j+1; k < vec.size();++k)
+                {
+                    if (vec[k]<sum)
+                    {
+                        count++;
+                    }
+                }
+            }
+        }
 
+
+        return count;*/
     }
-
 }
+

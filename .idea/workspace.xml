@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5fedcea-4031-404f-8598-0d63de7e53e3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/nothing/SwitchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nothing/SwitchTest.java" afterDir="false" />
     </list>
@@ -14,48 +13,133 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/LeetCode_Solution$PermGenOutOfMemory.ic" NAME="PermGenOutOfMemory Coverage Results" MODIFIED="1537198594781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>nothing.*</FILTER>
+    </SUITE>
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="LeetCode-Solution" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SwitchTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/nothing/SwitchTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HashMap.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../../../jdk1.8.0_77/src.zip!/java/util/HashMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="726" column="34" lean-forward="true" selection-start-line="726" selection-start-column="34" selection-end-line="726" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IsPalindrome.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Something/IsPalindrome.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FindMedianSortedArrays.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Something/FindMedianSortedArrays.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="21" column="15" lean-forward="true" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="SwitchTest.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/nothing/SwitchTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="129">
+                  <caret line="24" selection-start-line="24" selection-end-line="24" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="WeBank_First.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/ready/WeBank_First.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="338">
+                  <caret line="23" column="31" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="23" selection-end-column="31" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="WeBank_Two.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/ready/WeBank_Two.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="195">
+                  <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="34" selection-end-column="22" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Tercent_Thrid.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/ready/Tercent_Thrid.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1026">
+                  <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Tercent_Second.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/ready/Tercent_Second.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="266">
+                  <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="WeBank_Thrid.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/ready/WeBank_Thrid.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="437">
+                  <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="52" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Tercent_First.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/ready/Tercent_First.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="883">
+                  <caret line="62" column="19" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="19" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/Main.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="51">
+                  <caret line="119" column="39" selection-start-line="119" selection-start-column="39" selection-end-line="119" selection-end-column="39" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="FindMedianSortedArrays.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/Something/FindMedianSortedArrays.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="295">
+                  <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="PermGenOutOfMemory.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/nothing/PermGenOutOfMemory.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="437">
+                  <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/Main.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="295">
+                  <caret line="148" selection-start-line="148" selection-end-line="148" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -103,13 +187,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Easy/LengthOfLastWord.java" />
-        <option value="$PROJECT_DIR$/src/Easy/InsertInterval.java" />
-        <option value="$PROJECT_DIR$/src/Easy/MergeIntervals.java" />
-        <option value="$PROJECT_DIR$/src/Something/AddTwoNumbers.java" />
-        <option value="$PROJECT_DIR$/src/Something/MergeIntervals.java" />
-        <option value="$PROJECT_DIR$/src/Something/InsertInterval.java" />
-        <option value="$PROJECT_DIR$/src/Hello.java" />
         <option value="$PROJECT_DIR$/src/base/Insert.java" />
         <option value="$PROJECT_DIR$/src/base/Choose.java" />
         <option value="$PROJECT_DIR$/src/base/Quick.java" />
@@ -151,9 +228,16 @@
         <option value="$PROJECT_DIR$/src/ready/WeiPinHui_Second.java" />
         <option value="$PROJECT_DIR$/src/ready/Weipinghui_First.java" />
         <option value="$PROJECT_DIR$/src/ready/TreeSixZero_First.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/nothing/SwitchTest.java" />
         <option value="$PROJECT_DIR$/src/Something/FindMedianSortedArrays.java" />
+        <option value="$PROJECT_DIR$/src/nothing/PermGenOutOfMemory.java" />
+        <option value="$PROJECT_DIR$/src/nothing/SwitchTest.java" />
+        <option value="$PROJECT_DIR$/src/ready/WeBank_First.java" />
+        <option value="$PROJECT_DIR$/src/ready/WeBank_Two.java" />
+        <option value="$PROJECT_DIR$/src/ready/WeBank_Thrid.java" />
+        <option value="$PROJECT_DIR$/src/ready/Tercent_First.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/ready/Tercent_Thrid.java" />
+        <option value="$PROJECT_DIR$/src/ready/Tercent_Second.java" />
       </list>
     </option>
   </component>
@@ -166,7 +250,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="width" value="890" />
     <option name="height" value="835" />
   </component>
@@ -178,8 +262,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -208,13 +293,18 @@
               <item name="LeetCode-Solution" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Solution" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Something" type="462c0819:PsiDirectoryNode" />
+              <item name="nothing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Solution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Solution" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ready" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -247,23 +337,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SwitchTest">
-    <configuration name="CallableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nothing.CallableTest" />
+  <component name="RunManager" selected="Application.Tercent_Thrid">
+    <configuration name="PermGenOutOfMemory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nothing.PermGenOutOfMemory" />
       <module name="LeetCode-Solution" />
+      <option name="VM_PARAMETERS" value="-XX:PermSize=10M -XX:MaxPermSize=10M" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="nothing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="IsPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ready.IsPrime" />
-      <module name="LeetCode-Solution" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ready.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -278,8 +359,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="XunLei_First" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ready.XunLei_First" />
+    <configuration name="Tercent_Thrid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ready.Tercent_Thrid" />
       <module name="LeetCode-Solution" />
       <extension name="coverage">
         <pattern>
@@ -288,8 +369,18 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="XunLei_Second" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ready.XunLei_Second" />
+    <configuration name="WeBank_Thrid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ready.WeBank_Thrid" />
+      <module name="LeetCode-Solution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ready.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="WeBank_Two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ready.WeBank_Two" />
       <module name="LeetCode-Solution" />
       <extension name="coverage">
         <pattern>
@@ -299,19 +390,19 @@
       </extension>
     </configuration>
     <list>
-      <item itemvalue="Application.XunLei_First" />
-      <item itemvalue="Application.XunLei_Second" />
-      <item itemvalue="Application.IsPrime" />
-      <item itemvalue="Application.CallableTest" />
       <item itemvalue="Application.SwitchTest" />
+      <item itemvalue="Application.PermGenOutOfMemory" />
+      <item itemvalue="Application.WeBank_Two" />
+      <item itemvalue="Application.WeBank_Thrid" />
+      <item itemvalue="Application.Tercent_Thrid" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tercent_Thrid" />
+        <item itemvalue="Application.WeBank_Thrid" />
+        <item itemvalue="Application.WeBank_Two" />
         <item itemvalue="Application.SwitchTest" />
-        <item itemvalue="Application.CallableTest" />
-        <item itemvalue="Application.IsPrime" />
-        <item itemvalue="Application.XunLei_Second" />
-        <item itemvalue="Application.XunLei_First" />
+        <item itemvalue="Application.PermGenOutOfMemory" />
       </list>
     </recent_temporary>
   </component>
@@ -444,39 +535,42 @@
       <workItem from="1536968409980" duration="5716000" />
       <workItem from="1537111446832" duration="1587000" />
       <workItem from="1537151165876" duration="3768000" />
+      <workItem from="1537196084680" duration="10720000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="639749000" />
+    <option name="totallyTimeSpent" value="650469000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.48632812" side_tool="true" weight="0.33287293" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.53059894" visible="true" weight="0.34668508" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.499375" weight="0.32458565" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="8" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.4856771" side_tool="true" weight="0.33425415" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32872927" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49934897" weight="0.2665746" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.51432294" weight="0.3337931" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49518305" visible="true" weight="0.17252605" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.50651044" weight="0.2665746" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.3294271" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.5136719" weight="0.33287293" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49518305" visible="true" weight="0.18619792" />
       <window_info id="Web" order="3" sideWeight="0.5019608" side_tool="true" weight="0.20703125" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" sideWeight="0.50481695" side_tool="true" weight="0.37760416" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.53059894" weight="0.34668508" />
       <window_info anchor="bottom" id="Spring" order="14" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -1339,6 +1433,54 @@
           <properties />
           <option name="timeStamp" value="252" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ready/WeBank_Two.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="253" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ready/WeBank_Two.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="254" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ready/WeBank_Two.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="255" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ready/WeBank_Two.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="256" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ready/Tercent_Thrid.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="259" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ready/Tercent_Thrid.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="261" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ready/Tercent_Thrid.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="262" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ready/Tercent_Thrid.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="263" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Something/FindWords.java</url>
           <line>92</line>
@@ -1423,53 +1565,10 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="253" />
+      <option name="time" value="264" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Something/ReverseInterger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nothing/StaticTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/MaxComSubStr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ready/DianXin_First.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ready/DianXin_Thrid.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ready/DianXin_Second.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="31" column="31" lean-forward="true" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nothing/Integer.java" />
     <entry file="file://$PROJECT_DIR$/src/nothing/FinalExtend.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
@@ -1670,10 +1769,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
-          <folding>
-            <element signature="e#356#357#0" expanded="true" />
-            <element signature="e#398#399#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1716,9 +1811,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="14" selection-end-line="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1729,24 +1821,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
-          <caret line="122" selection-start-line="122" selection-end-line="122" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nothing/SwitchTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/../../../jdk1.8.0_77/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="726" column="34" lean-forward="true" selection-start-line="726" selection-start-column="34" selection-end-line="726" selection-end-column="34" />
+        <state relative-caret-position="12939">
+          <caret line="726" column="34" selection-start-line="726" selection-start-column="34" selection-end-line="726" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -1780,8 +1858,80 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Something/FindMedianSortedArrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="21" column="15" lean-forward="true" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+        <state relative-caret-position="295">
+          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nothing/PermGenOutOfMemory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nothing/SwitchTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ready/WeBank_First.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="23" column="31" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="23" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ready/WeBank_Two.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="34" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ready/WeBank_Thrid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="119" column="39" selection-start-line="119" selection-start-column="39" selection-end-line="119" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ready/Tercent_First.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="883">
+          <caret line="62" column="19" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ready/Tercent_Thrid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ready/Tercent_Second.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
         </state>
       </provider>
     </entry>
