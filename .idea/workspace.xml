@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5fedcea-4031-404f-8598-0d63de7e53e3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nothing/SwitchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nothing/SwitchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,124 +21,43 @@
     <favorites_list name="LeetCode-Solution" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="SwitchTest.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/nothing/SwitchTest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="129">
-                  <caret line="24" selection-start-line="24" selection-end-line="24" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="WeBank_First.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/ready/WeBank_First.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="338">
-                  <caret line="23" column="31" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="23" selection-end-column="31" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="WeBank_Two.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/ready/WeBank_Two.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="195">
-                  <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="34" selection-end-column="22" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Tercent_Thrid.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/ready/Tercent_Thrid.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1026">
-                  <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Tercent_Second.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/ready/Tercent_Second.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="266">
-                  <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="WeBank_Thrid.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/ready/WeBank_Thrid.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="437">
-                  <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="52" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Tercent_First.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/ready/Tercent_First.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="883">
-                  <caret line="62" column="19" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="19" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/Main.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="51">
-                  <caret line="119" column="39" selection-start-line="119" selection-start-column="39" selection-end-line="119" selection-end-column="39" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="FindMedianSortedArrays.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/Something/FindMedianSortedArrays.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="295">
-                  <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="PermGenOutOfMemory.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/nothing/PermGenOutOfMemory.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="437">
-                  <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/Main.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="295">
-                  <caret line="148" selection-start-line="148" selection-end-line="148" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="InterfaceTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/nothing/InterfaceTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+              <folding>
+                <element signature="e#134#135#0" expanded="true" />
+                <element signature="e#170#171#0" expanded="true" />
+                <element signature="e#104#105#0" expanded="true" />
+                <element signature="e#128#129#0" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
+                <element signature="e#259#260#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OverrideOrOverLoad.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/nothing/OverrideOrOverLoad.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InterruptWhenSleep.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/nothing/InterruptWhenSleep.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -187,11 +105,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/base/Insert.java" />
-        <option value="$PROJECT_DIR$/src/base/Choose.java" />
-        <option value="$PROJECT_DIR$/src/base/Quick.java" />
-        <option value="$PROJECT_DIR$/src/base/Bubble.java" />
-        <option value="$PROJECT_DIR$/src/base/MergeSort.java" />
         <option value="$PROJECT_DIR$/src/Other/CodingOffer/algorithm/findKthToTail/FindKthToTail.java" />
         <option value="$PROJECT_DIR$/src/nothing/inter.java" />
         <option value="$PROJECT_DIR$/src/Other/CodingOffer/algorithm/singleton/Singleton2.java" />
@@ -238,6 +151,11 @@
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/ready/Tercent_Thrid.java" />
         <option value="$PROJECT_DIR$/src/ready/Tercent_Second.java" />
+        <option value="$PROJECT_DIR$/src/interview/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/nothing/LambdaTest.java" />
+        <option value="$PROJECT_DIR$/src/nothing/InterfaceTest.java" />
+        <option value="$PROJECT_DIR$/src/nothing/OverrideOrOverLoad.java" />
+        <option value="$PROJECT_DIR$/src/nothing/InterruptWhenSleep.java" />
       </list>
     </option>
   </component>
@@ -250,7 +168,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="890" />
     <option name="height" value="835" />
   </component>
@@ -299,6 +217,19 @@
               <item name="LeetCode-Solution" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-Solution" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Solution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Solution" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="singleton" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode-Solution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-Solution" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ready" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -308,14 +239,14 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;Main&#9;FILE&#9;file://E:/Java/projects/SISE/LeetCode-Solution/src/Main.java&#10;Concurrent&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;String&#9;FILE&#9;jar://E:/Java/jdk1.8.0_77/jre/lib/rt.jar!/java/lang/String.class&#10;TreeSet&#9;PSI&#9;JAVA://java.util.TreeSet&#10;HashSet&#9;FILE&#9;jar://E:/Java/jdk1.8.0_77/src.zip!/java/util/HashSet.java&#10;lengthOfLongestSubstring&#9;PSI&#9;JAVA://medium.LengthOfLongestSubstring&#10;WeakMap&#9;PSI&#9;JAVA://java.util.WeakHashMap&#10;await&#9;PSI&#9;JAVA://java.util.concurrent.CountDownLatch#await&#10;Semap&#9;PSI&#9;JAVA://java.util.concurrent.Semaphore&#10;barrier&#9;PSI&#9;JAVA://java.util.concurrent.CyclicBarrier&#10;CountDo&#9;PSI&#9;JAVA://java.util.concurrent.CountDownLatch&#10;Object&#9;FILE&#9;jar://E:/Java/jdk1.8.0_77/src.zip!/java/lang/Object.java&#10;ConditionO&#9;PSI&#9;JAVA://java.util.concurrent.locks.AbstractQueuedLongSynchronizer.ConditionObject&#10;Condition&#9;PSI&#9;JAVA://java.util.concurrent.locks.Condition&#10;hashS&#9;PSI&#9;JAVA://java.util.HashSet&#10;RunTimeExce&#9;PSI&#9;JAVA://java.lang.RuntimeException&#10;Vector&#9;PSI&#9;JAVA://java.util.Vector&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList&#10;Hash&#9;FILE&#9;jar://E:/Java/jdk1.8.0_77/src.zip!/java/util/Hashtable.java&#10;hashMa&#9;PSI&#9;JAVA://java.util.HashMap&#10;List&#9;FILE&#9;jar://E:/Java/jdk1.8.0_77/src.zip!/java/util/List.java&#10;HashTable&#9;PSI&#9;JAVA://java.util.Hashtable&#10;Integer&#9;PSI&#9;JAVA://java.lang.Integer&#10;Math&#9;PSI&#9;JAVA://java.lang.Math&#10;Conc&#9;FILE&#9;jar://E:/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/ConcurrentHashMap.java&#10;Objec&#9;PSI&#9;JAVA://java.lang.Object&#10;TreeMap&#9;PSI&#9;JAVA://java.util.TreeMap&#10;MAIN&#9;FILE&#9;file://E:/Java/projects/SISE/LeetCode-Solution/src/Main.java&#10;Collections&#9;PSI&#9;JAVA://java.util.Collections&#10;ThreadLocal&#9;PSI&#9;JAVA://java.lang.ThreadLocal&#10;NativeMethodAccessorImpl&#9;PSI&#9;JAVA://sun.reflect.NativeMethodAccessorImpl&#10;ReflectionF&#9;PSI&#9;JAVA://sun.reflect.ReflectionFactory&#10;AbstractQue&#9;PSI&#9;JAVA://java.util.concurrent.locks.AbstractQueuedSynchronizer&#10;ClassLoader&#9;PSI&#9;JAVA://java.lang.ClassLoader" />
+    <property name="SearchEverywhereHistoryKey" value="Exception&#9;FILE&#9;jar://E:/Java/jdk1.8.0_77/src.zip!/java/lang/Exception.java&#10;Error&#9;PSI&#9;JAVA://java.lang.Error&#10;Throwable&#9;PSI&#9;JAVA://java.lang.Throwable&#10;HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;Main&#9;FILE&#9;file://E:/Java/projects/SISE/LeetCode-Solution/src/Main.java&#10;Concurrent&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;String&#9;FILE&#9;jar://E:/Java/jdk1.8.0_77/jre/lib/rt.jar!/java/lang/String.class&#10;TreeSet&#9;PSI&#9;JAVA://java.util.TreeSet&#10;HashSet&#9;FILE&#9;jar://E:/Java/jdk1.8.0_77/src.zip!/java/util/HashSet.java&#10;lengthOfLongestSubstring&#9;PSI&#9;JAVA://medium.LengthOfLongestSubstring&#10;WeakMap&#9;PSI&#9;JAVA://java.util.WeakHashMap&#10;await&#9;PSI&#9;JAVA://java.util.concurrent.CountDownLatch#await&#10;Semap&#9;PSI&#9;JAVA://java.util.concurrent.Semaphore&#10;barrier&#9;PSI&#9;JAVA://java.util.concurrent.CyclicBarrier&#10;CountDo&#9;PSI&#9;JAVA://java.util.concurrent.CountDownLatch&#10;Object&#9;FILE&#9;jar://E:/Java/jdk1.8.0_77/src.zip!/java/lang/Object.java&#10;ConditionO&#9;PSI&#9;JAVA://java.util.concurrent.locks.AbstractQueuedLongSynchronizer.ConditionObject&#10;Condition&#9;PSI&#9;JAVA://java.util.concurrent.locks.Condition&#10;hashS&#9;PSI&#9;JAVA://java.util.HashSet&#10;RunTimeExce&#9;PSI&#9;JAVA://java.lang.RuntimeException&#10;Vector&#9;PSI&#9;JAVA://java.util.Vector&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList&#10;Hash&#9;FILE&#9;jar://E:/Java/jdk1.8.0_77/src.zip!/java/util/Hashtable.java&#10;hashMa&#9;PSI&#9;JAVA://java.util.HashMap&#10;List&#9;FILE&#9;jar://E:/Java/jdk1.8.0_77/src.zip!/java/util/List.java&#10;HashTable&#9;PSI&#9;JAVA://java.util.Hashtable&#10;Integer&#9;PSI&#9;JAVA://java.lang.Integer&#10;Math&#9;PSI&#9;JAVA://java.lang.Math&#10;Conc&#9;FILE&#9;jar://E:/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/ConcurrentHashMap.java&#10;Objec&#9;PSI&#9;JAVA://java.lang.Object&#10;TreeMap&#9;PSI&#9;JAVA://java.util.TreeMap&#10;MAIN&#9;FILE&#9;file://E:/Java/projects/SISE/LeetCode-Solution/src/Main.java&#10;Collections&#9;PSI&#9;JAVA://java.util.Collections&#10;ThreadLocal&#9;PSI&#9;JAVA://java.lang.ThreadLocal&#10;NativeMethodAccessorImpl&#9;PSI&#9;JAVA://sun.reflect.NativeMethodAccessorImpl&#10;ReflectionF&#9;PSI&#9;JAVA://sun.reflect.ReflectionFactory&#10;AbstractQue&#9;PSI&#9;JAVA://java.util.concurrent.locks.AbstractQueuedSynchronizer&#10;ClassLoader&#9;PSI&#9;JAVA://java.lang.ClassLoader" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="D:/课件/SM3015-移动搜索算法/mytomcat-master" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="Lombok plugin" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -337,11 +268,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Tercent_Thrid">
-    <configuration name="PermGenOutOfMemory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nothing.PermGenOutOfMemory" />
+  <component name="RunManager" selected="Application.InterruptWhenSleep">
+    <configuration name="InterfaceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nothing.InterfaceTest" />
       <module name="LeetCode-Solution" />
-      <option name="VM_PARAMETERS" value="-XX:PermSize=10M -XX:MaxPermSize=10M" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="nothing.*" />
@@ -349,8 +279,18 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="SwitchTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nothing.SwitchTest" />
+    <configuration name="InterruptWhenSleep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nothing.InterruptWhenSleep" />
+      <module name="LeetCode-Solution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nothing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="LambdaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nothing.LambdaTest" />
       <module name="LeetCode-Solution" />
       <extension name="coverage">
         <pattern>
@@ -379,30 +319,20 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="WeBank_Two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ready.WeBank_Two" />
-      <module name="LeetCode-Solution" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ready.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <list>
-      <item itemvalue="Application.SwitchTest" />
-      <item itemvalue="Application.PermGenOutOfMemory" />
-      <item itemvalue="Application.WeBank_Two" />
       <item itemvalue="Application.WeBank_Thrid" />
       <item itemvalue="Application.Tercent_Thrid" />
+      <item itemvalue="Application.LambdaTest" />
+      <item itemvalue="Application.InterfaceTest" />
+      <item itemvalue="Application.InterruptWhenSleep" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InterruptWhenSleep" />
+        <item itemvalue="Application.InterfaceTest" />
+        <item itemvalue="Application.LambdaTest" />
         <item itemvalue="Application.Tercent_Thrid" />
         <item itemvalue="Application.WeBank_Thrid" />
-        <item itemvalue="Application.WeBank_Two" />
-        <item itemvalue="Application.SwitchTest" />
-        <item itemvalue="Application.PermGenOutOfMemory" />
       </list>
     </recent_temporary>
   </component>
@@ -535,16 +465,15 @@
       <workItem from="1536968409980" duration="5716000" />
       <workItem from="1537111446832" duration="1587000" />
       <workItem from="1537151165876" duration="3768000" />
-      <workItem from="1537196084680" duration="10720000" />
+      <workItem from="1537196084680" duration="20231000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="650469000" />
+    <option name="totallyTimeSpent" value="659980000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.48632812" side_tool="true" weight="0.33287293" />
@@ -556,7 +485,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.53059894" visible="true" weight="0.34668508" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.53059894" weight="0.34668508" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.499375" weight="0.32458565" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
@@ -1569,90 +1498,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/nothing/FinalExtend.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../jdk1.8.0_77/src.zip!/java/util/concurrent/ForkJoinPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="238" column="26" selection-start-line="238" selection-start-column="26" selection-end-line="238" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nothing/ThreadRunimeExceptionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nothing/IntegerEqualInt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nothing/ForkJoinTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../jdk1.8.0_77/src.zip!/java/util/HashSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="159" column="64" selection-start-line="159" selection-start-column="59" selection-end-line="159" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../jdk1.8.0_77/src.zip!/java/util/TreeMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="681">
-          <caret line="146" column="11" selection-start-line="146" selection-start-column="11" selection-end-line="146" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../jdk1.8.0_77/src.zip!/java/util/TreeSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="947">
-          <caret line="123" column="22" lean-forward="true" selection-start-line="123" selection-start-column="22" selection-end-line="123" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/reverseList/ReverseList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/LengthOfLongestSubstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="27" column="2" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../jdk1.8.0_77/src.zip!/java/lang/CharSequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1444">
-          <caret line="58" column="17" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../jdk1.8.0_77/jre/lib/rt.jar!/java/lang/String.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="22" column="76" selection-start-line="22" selection-start-column="71" selection-end-line="22" selection-end-column="83" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/../../../jdk1.8.0_77/src.zip!/java/lang/Math.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -1744,13 +1589,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/LRUCache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/TreeDepth.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -1769,6 +1607,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+          <folding>
+            <element signature="e#356#357#0" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1783,20 +1625,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/singleton/Singleton1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/singleton/Singleton2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1894,13 +1722,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ready/WeBank_Thrid.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -1918,20 +1739,149 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ready/Tercent_Second.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14">
+          <caret selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ready/WeBank_Thrid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ready/Tercent_Thrid.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1026">
-          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+        <state>
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ready/Tercent_Second.java">
+    <entry file="file://$PROJECT_DIR$/src/interview/ExchangeTwoInt.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/DiagonalPrint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/PrintOddEven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1036">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk1.8.0_77/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="354" column="19" selection-start-line="354" selection-start-column="19" selection-end-line="354" selection-end-column="19" />
+          <folding>
+            <element signature="e#24161#24162#0" expanded="true" />
+            <element signature="e#24193#24194#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/singleton/Singleton1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/LRUCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Other/CodingOffer/algorithm/singleton/Singleton2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="32" column="27" lean-forward="true" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nothing/LambdaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk1.8.0_77/src.zip!/java/lang/Exception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-456">
+          <folding>
+            <element signature="e#0#4059#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk1.8.0_77/src.zip!/java/lang/Error.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk1.8.0_77/src.zip!/java/lang/Throwable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="113" column="13" selection-start-line="113" selection-start-column="13" selection-end-line="113" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nothing/InterfaceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nothing/OverrideOrOverLoad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nothing/InterruptWhenSleep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
         </state>
       </provider>
     </entry>
